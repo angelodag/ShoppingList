@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liste de courses</string>
+    <string name="shop">Magazin</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="alreadyPresent">déjà présent</string>
+    <string name="congratulations">liste terminée</string>
+    <string name="action_mode">Mode Action</string>
+    <string name="new_item">Nouvel Objet</string>
+    <string name="cancel">Annuler</string>
+    <string name="manage_shops">Gérer les magazins</string>
+    <string name="shop_mode">Choisir le magazin</string>
+    <string name="basicShop">Courses</string>
+    <string name="current_shop">"Magazin: "</string>
+    <string name="action_sort">Ordre Alphabetic</string>
+    <string name="action_deselect">Tout déselectionner</string>
+</resources>

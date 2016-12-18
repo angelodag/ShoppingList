@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="action_settings">Settings</string>
+    <string name="shop">Shop</string>
+    <string name="alreadyPresent">already present</string>
+    <string name="congratulations">list completed</string>
+    <string name="shop_mode">Select Shop</string>
+    <string name="action_mode">Action Mode</string>
+    <string name="new_item">New Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="manage_shops">Manage Shops</string>
+    <string name="basicShop">Shopping</string>
+    <string name="current_shop">"Shop: "</string>
+    <string name="action_sort">Sort Alphabetically</string>
+    <string name="action_deselect">Deselect all</string>
+</resources>

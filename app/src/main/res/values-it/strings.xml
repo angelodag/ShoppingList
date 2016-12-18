@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista della spesa</string>
+    <string name="shop">Negozio</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="alreadyPresent">già nella lista</string>
+    <string name="congratulations">lista completata</string>
+    <string name="action_mode">Modo Azione</string>
+    <string name="new_item">Nuovo oggetto</string>
+    <string name="cancel">Annulla</string>
+    <string name="manage_shops">Gestisci i negozi</string>
+    <string name="shop_mode">Scegli il negozio</string>
+    <string name="basicShop">Shopping</string>
+    <string name="current_shop">"Contesto: "</string>
+    <string name="action_sort">Ordine alfabetico</string>
+    <string name="action_deselect">Deselezionare tutto</string>
+</resources>

@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="eu.dagnano.shoppinglist.ListBuildActivity">
+    <item
+        android:id="@+id/action_mode"
+        android:orderInCategory="80"
+        android:title="@string/action_mode" />
+    <item
+        android:id="@+id/shop_mode"
+        android:orderInCategory="90"
+        android:title="@string/shop_mode" />
+    <item
+        android:id="@+id/action_sort"
+        android:orderInCategory="95"
+        android:title="@string/action_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_deselect"
+        android:orderInCategory="97"
+        android:title="@string/action_deselect"
+        app:showAsAction="never" />
+    <!--
+        <item
+            android:id="@+id/action_settings"
+            android:orderInCategory="101"
+            android:title="@string/action_settings"
+            app:showAsAction="never" />
+    -->
+</menu>
